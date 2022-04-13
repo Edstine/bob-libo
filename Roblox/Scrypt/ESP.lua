@@ -1,12 +1,6 @@
 --[[
-A distribution of https://wearedevs.net/scripts
-Created August 17, 2021, Last updated August 17, 2021
-
-Description: Draws boxes around each player.
-
-Credits to "Real Panda" for their ESP library
-
-Instruction: Edit the settings as desired below and execute the script.
+Scrypt by WeAreDev 
+Edit by Edstine
 
 Settings: 
 Replace "nil" with "true" to enable the setting, or "false" to disable the setting. Without the quotes. 
